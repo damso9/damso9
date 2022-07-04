@@ -3,3 +3,5 @@
 🌱 I’m currently learning React
 💞️ I’m looking to collaborate on anything that will help me develop my skills.
 Reach me on twitter @trayne_xx
+
+Updating soon 
