@@ -30,7 +30,7 @@ I’m also adept at using modern frontend development tools like **Webpack** and
 ## 👨‍💻 Some Notable Projects
 - **[Dukka Terminal Request Dashboard](https://github.com/yourprojectlink):** Oversaw the shipment of POS terminals and contributed to streamlining business processes.
 - **[SIMONE Internal Tool](https://simone.dukka.com/login):** Collaborated with product designers and engineers to develop an internal product, enhancing team productivity.
-- **[CommunityByDukka Website](https://github.com/yourprojectlink):** Helped create a platform for merchants to connect, share insights, and grow their businesses.
+- **[CommunityByDukka Website](https://community.dukka.com):** Helped creating a dedicated platform for Dukka's coworking space.
 
 ## 🛠️ I Can Help You With:
 - Building **scalable, maintainable** web applications with React and modern JavaScript
@@ -41,6 +41,6 @@ I’m also adept at using modern frontend development tools like **Webpack** and
 ## 📫 Get in Touch!
 I'm always excited to connect with fellow developers, designers, and innovators! Whether it's contributing to an open-source project or collaborating on something new, feel free to reach out.
 
-- **Email:** [your.email@example.com](mailto:ayodeled28@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/damilola-ayodele/)
-- **Portfolio:** [your-portfolio.com](http://damso9.github.io/Portfolio/)
+- **Email:** [Ayodeled28@gmail.com](mailto:ayodeled28@gmail.com)
+- **LinkedIn:** [Damilola Ayodele](https://www.linkedin.com/in/damilola-ayodele/)
+- **Portfolio:** [http://damso9.github.io/Portfolio](http://damso9.github.io/Portfolio/)
