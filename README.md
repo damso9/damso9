@@ -28,7 +28,7 @@ I’m also adept at using modern frontend development tools like **Webpack** and
 - **Design Collaboration:** I collaborate with designers to bring wireframes and prototypes to life, ensuring that UI/UX principles are maintained.
 
 ## 👨‍💻 Some Notable Projects
-- **[Dukka Terminal Request Dashboard](https://github.com/yourprojectlink):** Oversaw the shipment of POS terminals and contributed to streamlining business processes.
+- **[Dukka Terminal Request Dashboard](https://trd.dukka.com):** Oversaw the shipment of POS terminals and contributed to streamlining business processes.
 - **[SIMONE Internal Tool](https://simone.dukka.com/login):** Collaborated with product designers and engineers to develop an internal product, enhancing team productivity.
 - **[CommunityByDukka Website](https://community.dukka.com):** Helped creating a dedicated platform for Dukka's coworking space.
 
